@@ -1,1 +1,2 @@
-import module issubclass;
+import module issubclass
+print("hello world")
